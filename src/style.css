@@ -172,6 +172,9 @@ p::after{
            text-align: center;
            padding: 10px;
     }
+    .banner img{
+        width:100%;
+    }
     .banner .welcome br{
         display: none;
     }
